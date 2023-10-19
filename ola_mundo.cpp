@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main () {
-	std::cout <<"Olá Mundo cruel! Estamos de volta"<< std::end;
+	std::cout <<"O mundo acabou 11hrs."<< std::end;
 	return 0;
 }
